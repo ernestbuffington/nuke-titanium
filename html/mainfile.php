@@ -92,7 +92,7 @@ if ($phpver >= '4.0.4pl1' && isset($_SERVER['HTTP_USER_AGENT']) && strstr($_SERV
   	}
 }
 
-$sanitize_rules = array("newlang"=>"/[a-z][a-z]/i","redirect"=>"/[a-z0-9]*/i");
+$sanitize_rules = array("newlang"=>"/[a-z][a-z]/i","redirect"=>"/[a-z0-9]*/i","sid"=>"/[0-9]*/i","name"=>"/[0-9]*/i");
 foreach($_REQUEST as $key=>$value)
 {
     if(!isset($sanitize_rules[$key]) || preg_match($sanitize_rules[$key], $values))
