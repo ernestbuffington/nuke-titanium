@@ -1,7 +1,7 @@
 <?php
 
 /**************************************************************************/
-/* PHP-NUKE: Advanced Content Management System                           */
+/* PHP-Nuke Titanium: An Enhanced and Advanced CMS                        */
 /* ============================================                           */
 /*                                                                        */
 /* This is the language module with all the system messages               */
@@ -18,9 +18,9 @@
 /**************************************************************************/
 
 /**************************************************************************/
-/* Translation by:							  */
-/*									  */
-/* Rui Cristovão (ord'hor) ordhor@hotmail.com				  */
+/* Translation by:							                              */
+/*									                                      */
+/* Rui Cristovão (ord'hor) ordhor@hotmail.com				              */
 /**************************************************************************/
 
 

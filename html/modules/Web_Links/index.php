@@ -1,20 +1,20 @@
 <?php
 
-/************************************************************************/
-/* PHP-NUKE: Web Portal System                                          */
-/* ===========================                                          */
-/*                                                                      */
-/* Copyright (c) 2007 by Francisco Burzi                                */
-/* http://phpnuke.org                                                   */
-/*                                                                      */
-/* Based on Journey Links Hack                                          */
-/* Copyright (c) 2000 by James Knickelbein                              */
-/* Journey Milwaukee (http://www.journeymilwaukee.com)                  */
-/*                                                                      */
-/* This program is free software. You can redistribute it and/or modify */
-/* it under the terms of the GNU General Public License as published by */
-/* the Free Software Foundation; either version 2 of the License.       */
-/************************************************************************/
+/*************************************************************************/
+/* PHP-NUKE: Web Portal System                                           */
+/* ===========================                                           */
+/*                                                                       */
+/* Copyright (c) by Francisco Burzi & Brandon Maintenance Management LLC */
+/* http://php-nuke.coders.exchange                                       */
+/*                                                                       */
+/* Based on Journey Links Hack                                           */
+/* Copyright (c) 2000 by James Knickelbein                               */
+/* Journey Milwaukee (http://www.journeymilwaukee.com)                   */
+/*                                                                       */
+/* This program is free software. You can redistribute it and/or modify  */
+/* it under the terms of the GNU General Public License as published by  */
+/* the Free Software Foundation; either version 2 of the License.        */
+/*************************************************************************/
 
 if (!defined('MODULE_FILE')) {
 	die ("You can't access this file directly...");

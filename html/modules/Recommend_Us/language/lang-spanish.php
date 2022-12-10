@@ -1,7 +1,7 @@
 <?php
 
 /**************************************************************************/
-/* PHP-NUKE: Advanced Content Management System                           */
+/* PHP-Nuke Titanium: An Enhanced and Advanced CMS                        */
 /* ============================================                           */
 /*                                                                        */
 /* This is the language module with all the system messages               */
@@ -33,6 +33,7 @@ define("_FSITEURL","Dirección del sitio:");
 define("_FREFERENCE","La referencia a nuestro sitio ha sido enviada a");
 define("_THANKSREC","Gracias por recomendarnos");
 define("_SECURITYCODEERROR","<b>ERROR:</b> The security code you wrote is incorrect...<br>Please write it exactly as given bellow:");
-define("_SENDSITEERROR","<b>Error sending the recommendation...</b><br><br><b>ERROR:</b> One or more required fields are empty.<br>Please go back and correct the problem, then try again.");
+
+define("_SENDSITEERROR","<b>Error sending the recommendation...</b><br><br><b>ERROR:</b> One or more required fields are empty.<br>Please go back and correct the problem, then try again.");
 
 ?>

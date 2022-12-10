@@ -1,16 +1,16 @@
 <?php
 
-/************************************************************************/
-/* PHP-NUKE: Advanced Content Management System                         */
-/* ============================================                         */
-/*                                                                      */
-/* Copyright (c) 2007 by Francisco Burzi                                */
-/* http://phpnuke.org                                                   */
-/*                                                                      */
-/* This program is free software. You can redistribute it and/or modify */
-/* it under the terms of the GNU General Public License as published by */
-/* the Free Software Foundation; either version 2 of the License.       */
-/************************************************************************/
+######################################################################
+# PHP-Nuke Titanium: An Advanced and Enhanced CMS
+# ===================================================================
+#
+# Copyright (c) by Francisco Burzi & Brandon Maintenance Management LLC
+# http://php-nuke.coders.exchange - FEI/EIN Number 85-4346756
+#
+# This program is free software. You can redistribute it and/or modify
+# it under the terms of the GNU General Public License as published by
+# the Free Software Foundation; either version 2 of the License.
+######################################################################
 
 if (stristr(htmlentities($_SERVER['PHP_SELF']), "footer.php")) {
 	Header("Location: index.php");
@@ -38,7 +38,7 @@ function footmsg() {
 		$footmsg .= $foot3."<br>\n";
 	}
 	// DO NOT REMOVE THE FOLLOWING COPYRIGHT LINE. YOU'RE NOT ALLOWED TO REMOVE NOR EDIT THIS.
-	// IF YOU REALLY NEED TO REMOVE IT AND HAVE MY WRITTEN AUTHORIZATION CHECK: http://phpnuke.org/modules.php?name=Commercial_License
+	// IF YOU REALLY NEED TO REMOVE IT AND HAVE MY WRITTEN AUTHORIZATION CHECK: http://php-nuke.coders.exchange/modules.php?name=Commercial_License
 	// PLAY FAIR AND SUPPORT THE DEVELOPMENT, PLEASE!
 	if ($commercial_license == 1) {
 		$footmsg .= $total_time."<br>\n</span>\n";

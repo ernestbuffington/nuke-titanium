@@ -1,11 +1,11 @@
 <?php
 
 ######################################################################
-# PHP-NUKE: Advanced Content Management System
-# ============================================
+# PHP-Nuke Titanium: An Advanced and Enhanced CMS
+# ===================================================================
 #
-# Copyright (c) 2006 by Francisco Burzi
-# http://phpnuke.org
+# Copyright (c) by Francisco Burzi & Brandon Maintenance Management LLC
+# http://php-nuke.coders.exchange - FEI/EIN Number 85-4346756
 #
 # This program is free software. You can redistribute it and/or modify
 # it under the terms of the GNU General Public License as published by
@@ -73,18 +73,18 @@ $admin_file = "admin";
 $nuke_editor = 1;
 $display_errors = false;
 
-/**********************************************************************/
-/* You finished to configure the Database. Now you can change all     */
-/* you want in the Administration Section.   To enter just launch     */
-/* your web browser pointing it to http://xxxxxx.xxx/admin.php        */
-/* (Change xxxxxx.xxx to your domain name, for example: phpnuke.org)  */
-/*                                                                    */
-/* Remember to go to Preferences section where you can configure your */
-/* new site. In that menu you can change all you need to change.      */
-/*                                                                    */
-/* Congratulations! now you have an automated news portal!            */
-/* Thanks for choose PHP-Nuke: The Future of the Web                  */
-/**********************************************************************/
+/***********************************************************************************/
+/* You finished to configure the Database. Now you can change all                  */
+/* you want in the Administration Section.   To enter just launch                  */
+/* your web browser pointing it to http://xxxxxx.xxx/admin.php                     */
+/* (Change xxxxxx.xxx to your domain name, for example: php-nuke.coders.exchange)  */
+/*                                                                                 */
+/* Remember to go to Preferences section where you can configure your              */
+/* new site. In that menu you can change all you need to change.                   */
+/*                                                                                 */
+/* Congratulations! now you have an automated news portal!                         */
+/* Thanks for choose PHP-Nuke: The Future of the Web                               */
+/***********************************************************************************/
 
 // DO NOT TOUCH ANYTHING BELOW THIS LINE UNTIL YOU KNOW WHAT YOU'RE DOING
 
@@ -96,12 +96,12 @@ $CensorList = array("fuck","cunt","fucker","fucking","pussy","cock","c0ck","cum"
 $tipath = "images/topics/";
 
 //***************************************************************
-// IF YOU WANT TO LEGALY REMOVE ANY COPYRIGHT NOTICES PLAY FAIR AND CHECK: http://phpnuke.org/modules.php?name=Commercial_License
+// IF YOU WANT TO LEGALY REMOVE ANY COPYRIGHT NOTICES PLAY FAIR AND CHECK: http://php-nuke.coders.exchange/modules.php?name=Commercial_License
 // COPYRIGHT NOTICES ARE GPL SECTION 2(c) COMPLIANT AND CAN'T BE REMOVED WITHOUT PHP-NUKE'S AUTHOR WRITTEN AUTHORIZATION
 // THE USE OF COMMERCIAL LICENSE MODE FOR PHP-NUKE HAS BEEN APPROVED BY THE FSF (FREE SOFTWARE FOUNDATION)
 // YOU CAN REQUEST INFORMATION ABOUT THIS TO GNU.ORG REPRESENTATIVE. THE EMAIL THREAD REFERENCE IS #213080
 // YOU'RE NOT AUTHORIZED TO CHANGE THE FOLLOWING VARIABLE'S VALUE UNTIL YOU ACQUIRE A COMMERCIAL LICENSE
-// (http://phpnuke.org/modules.php?name=Commercial_License)
+// (http://php-nuke.coders.exchange/modules.php?name=Commercial_License)
 //***************************************************************
 
 $commercial_license = 0;

@@ -1,7 +1,7 @@
 <?php
 
 /**************************************************************************/
-/* PHP-NUKE: Advanced Content Management System                           */
+/* PHP-Nuke Titanium: An Enhanced and Advanced CMS                        */
 /* ============================================                           */
 /*                                                                        */
 /* This is the language module with all the system messages               */
@@ -840,7 +840,8 @@ function translate($phrase) {
     }
     return $tmp;
 }
-define("_HTMLNOTALLOWED2","HTML code isn't allowed here.");
+
+define("_HTMLNOTALLOWED2","HTML code isn't allowed here.");
 define("_ERRORINVEMAIL","ERROR: Invalid Email");
 
 ?>

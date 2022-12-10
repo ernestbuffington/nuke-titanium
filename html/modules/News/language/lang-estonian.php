@@ -1,7 +1,7 @@
 <?php
 
 /**************************************************************************/
-/* PHP-NUKE: Advanced Content Management System                           */
+/* PHP-Nuke Titanium: An Enhanced and Advanced CMS                        */
 /* ============================================                           */
 /*                                                                        */
 /* This is the language module with all the system messages               */
@@ -119,7 +119,8 @@ define("_YOURATEDARTICLE","Sinu h‰‰l oli");
 define("_COMMENTSMODERATION","Kommentaaride modereerimise s¸steem");
 define("_MODERATE","Modereeri");
 define("_CLICKTOMODERATE","Palun vali oma modereerimise v‰‰rtus igale kommentaarile selle artikli puhul, siis kliki <i>Modereeri</i> nupule, et salvestada sinu kommentaaride modereerimis valikud. Ole iga v‰‰rtusega aus, see puudutab kıiki kasutajaid/lugejaid. T‰nan sind.");
-define("_COMMENTSSYSTEM","Comments System");
+
+define("_COMMENTSSYSTEM","Comments System");
 define("_COMMENTPOSTERROR","<b>Error saving your comment...</b><br><br><b>ERROR:</b> The title or the main text of your comment are empty.<br>Please go back and correct the problem, then try again.");
 
 ?>

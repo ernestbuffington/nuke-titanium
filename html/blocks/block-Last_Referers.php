@@ -4,8 +4,8 @@
 /* PHP-NUKE: Web Portal System                                          */
 /* ===========================                                          */
 /*                                                                      */
-/* Copyright (c) 2007 by Francisco Burzi                                */
-/* http://phpnuke.org                                                   */
+/* Copyright (c) by Francisco Burzi & Brandon Maintenance Management LLC                                */
+/* http://php-nuke.coders.exchange                                                   */
 /*                                                                      */
 /* Based on Last Referers Block                                         */
 /* Copyright (c) 2001 by Jack Kozbial (jack@internetintl.com            */

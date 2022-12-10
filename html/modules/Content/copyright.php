@@ -4,8 +4,8 @@
 /* PHP-NUKE: Web Portal System                                          */
 /* ===========================                                          */
 /*                                                                      */
-/* Copyright (c) 2007 by Francisco Burzi                                */
-/* http://phpnuke.org                                                   */
+/* Copyright (c) by Francisco Burzi & Brandon Maintenance Management LLC                                */
+/* http://php-nuke.coders.exchange                                                   */
 /*                                                                      */
 /* This program is free software. You can redistribute it and/or modify */
 /* it under the terms of the GNU General Public License as published by */
@@ -18,9 +18,9 @@
 
 $author_name = "Francisco Burzi";
 $author_email = "";
-$author_homepage = "http://phpnuke.org";
+$author_homepage = "http://php-nuke.coders.exchange";
 $license = "GNU/GPL";
-$download_location = "http://phpnuke.org/modules.php?name=Downloads";
+$download_location = "http://php-nuke.coders.exchange/modules.php?name=Downloads";
 $module_version = "1.0";
 $module_description = "Module to have simple content for your web site. You can also categorize the content.";
 
@@ -47,7 +47,7 @@ function show_copyright() {
 	."<title>$module_name: Copyright Information</title>\n"
 	."<font size=\"2\" color=\"#363636\" face=\"Verdana, Helvetica\">\n"
 	."<center><b>Module Copyright &copy; Information</b><br>"
-	."$module_name module for <a href=\"http://phpnuke.org\" target=\"new\">PHP-Nuke</a><br><br></center>\n"
+	."$module_name module for <a href=\"http://php-nuke.coders.exchange\" target=\"new\">PHP-Nuke</a><br><br></center>\n"
 	."<img src=\"../../images/arrow.gif\" border=\"0\">&nbsp;<b>Module's Name:</b> $module_name<br>\n"
 	."<img src=\"../../images/arrow.gif\" border=\"0\">&nbsp;<b>Module's Version:</b> $module_version<br>\n"
 	."<img src=\"../../images/arrow.gif\" border=\"0\">&nbsp;<b>Module's Description:</b> $module_description<br>\n"

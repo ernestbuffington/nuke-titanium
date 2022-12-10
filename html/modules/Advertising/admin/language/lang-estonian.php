@@ -1,7 +1,7 @@
 <?php
 
 /**************************************************************************/
-/* PHP-NUKE: Advanced Content Management System                           */
+/* PHP-Nuke Titanium: An Enhanced and Advanced CMS                        */
 /* ============================================                           */
 /*                                                                        */
 /* This is the language module with all the system messages               */
@@ -63,7 +63,8 @@ define("_WARNING","Hoiatus");
 define("_INACTIVEBANNERS","Deaktiivseid bannerid");
 define("_BANNERS","Bannerid");
 define("_ALTTEXT","Asendustekst");
-define("_CLASS","Class");
+
+define("_CLASS","Class");
 define("_CLASSNOTE","If your Ad Class is Javascript/HTML Code the next 4 fields will be ignored and will count only the Code area below. If your Ad Class is Flash you must put the .SWF complete URL in the next field and set width and height of the Flash movie (Click URL and Alternate Text fields will be ignored).");
 define("_ADCLASS","Ad Class");
 define("_ADIMAGE","Image");

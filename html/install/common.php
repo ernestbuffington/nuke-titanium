@@ -1,11 +1,11 @@
 <?php
 
 /************************************************************************/
-/* PHP-NUKE: Advanced Content Management System                         */
+/* PHP-Nuke Titanium: An Enhanced and Advanced CMS                         */
 /* ============================================                         */
 /*                                                                      */
-/* Copyright (c) 2007 by Francisco Burzi                                */
-/* http://phpnuke.org                                                   */
+/* Copyright (c) by Francisco Burzi & Brandon Maintenance Management LLC                                */
+/* http://php-nuke.coders.exchange                                                   */
 /*                                                                      */
 /* PHP-Nuke Installer was based on Joomla Installer                     */
 /* Joomla is Copyright (c) by Open Source Matters                       */

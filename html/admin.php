@@ -1,16 +1,16 @@
 <?php
 
-/************************************************************************/
-/* PHP-NUKE: Web Portal System                                          */
-/* ===========================                                          */
-/*                                                                      */
-/* Copyright (c) 2007 by Francisco Burzi                                */
-/* http://phpnuke.org                                                   */
-/*                                                                      */
-/* This program is free software. You can redistribute it and/or modify */
-/* it under the terms of the GNU General Public License as published by */
-/* the Free Software Foundation; either version 2 of the License.       */
-/************************************************************************/
+######################################################################
+# PHP-Nuke Titanium: An Advanced and Enhanced CMS
+# ===================================================================
+#
+# Copyright (c) by Francisco Burzi & Brandon Maintenance Management LLC
+# http://php-nuke.coders.exchange - FEI/EIN Number 85-4346756
+#
+# This program is free software. You can redistribute it and/or modify
+# it under the terms of the GNU General Public License as published by
+# the Free Software Foundation; either version 2 of the License.
+######################################################################
 
 define('ADMIN_FILE', true);
 

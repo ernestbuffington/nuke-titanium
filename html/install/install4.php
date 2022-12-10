@@ -1,11 +1,11 @@
 <?php
 
 /************************************************************************/
-/* PHP-NUKE: Advanced Content Management System                         */
+/* PHP-Nuke Titanium: An Enhanced and Advanced CMS                         */
 /* ============================================                         */
 /*                                                                      */
-/* Copyright (c) 2007 by Francisco Burzi                                */
-/* http://phpnuke.org                                                   */
+/* Copyright (c) by Francisco Burzi & Brandon Maintenance Management LLC                                */
+/* http://php-nuke.coders.exchange                                                   */
 /*                                                                      */
 /* PHP-Nuke Installer was based on Joomla Installer                     */
 /* Joomla is Copyright (c) by Open Source Matters                       */
@@ -108,11 +108,11 @@ if ($siteUrl) {
 	$config = "<?php\n";
 	$config .= "\n";
 	$config .= "######################################################################\n";
-	$config .= "# PHP-NUKE: Advanced Content Management System\n";
-	$config .= "# ============================================\n";
+	$config .= "# PHP-Nuke Titanium: An Enhanced and Advanced CMS\n";
+	$config .= "# ===================================================================\n";
 	$config .= "#\n";
-	$config .= "# Copyright (c) 2007 by Francisco Burzi\n";
-	$config .= "# http://phpnuke.org\n";
+	$config .= "# Copyright (c) by Francisco Burzi & Brandon Maintenance Management LLC\n";
+	$config .= "# http://php-nuke.coders.exchange - FEI/EIN Number 85-4346756\n";
 	$config .= "#\n";
 	$config .= "# This program is free software. You can redistribute it and/or modify\n";
 	$config .= "# it under the terms of the GNU General Public License as published by\n";
@@ -161,18 +161,18 @@ if ($siteUrl) {
 	$config .= "\$subscription_url = \"\";\n";
 	$config .= "\$admin_file = \"admin\";\n";
 	$config .= "\n";
-	$config .= "/**********************************************************************/\n";
-	$config .= "/* You finished to configure the Database. Now you can change all     */\n";
-	$config .= "/* you want in the Administration Section.   To enter just launch     */\n";
-	$config .= "/* your web browser pointing it to http://xxxxxx.xxx/admin.php        */\n";
-	$config .= "/* (Change xxxxxx.xxx to your domain name, for example: phpnuke.org)  */\n";
-	$config .= "/*                                                                    */\n";
-	$config .= "/* Remember to go to Preferences section where you can configure your */\n";
-	$config .= "/* new site. In that menu you can change all you need to change.      */\n";
-	$config .= "/*                                                                    */\n";
-	$config .= "/* Congratulations! now you have an automated news portal!            */\n";
-	$config .= "/* Thanks for choose PHP-Nuke: The Future of the Web                  */\n";
-	$config .= "/**********************************************************************/\n";
+	$config .= "/***********************************************************************************/\n";
+	$config .= "/* You finished to configure the Database. Now you can change all                  */\n";
+	$config .= "/* you want in the Administration Section.   To enter just launch                  */\n";
+	$config .= "/* your web browser pointing it to http://xxxxxx.xxx/admin.php                     */\n";
+	$config .= "/* (Change xxxxxx.xxx to your domain name, for example: php-nuke.coders.exchange)  */\n";
+	$config .= "/*                                                                                 */\n";
+	$config .= "/* Remember to go to Preferences section where you can configure your              */\n";
+	$config .= "/* new site. In that menu you can change all you need to change.                   */\n";
+	$config .= "/*                                                                                 */\n";
+	$config .= "/* Congratulations! now you have an automated news portal!                         */\n";
+	$config .= "/* Thanks for choose PHP-Nuke: The Future of the Web                               */\n";
+	$config .= "/***********************************************************************************/\n";
 	$config .= "\n";
 	$config .= "// DO NOT TOUCH ANYTHING BELOW THIS LINE UNTIL YOU KNOW WHAT YOU'RE DOING\n";
 	$config .= "\n";
@@ -187,12 +187,12 @@ if ($siteUrl) {
 	$config .= "\$tipath = \"images/topics/\";\n";
 	$config .= "\n";
 	$config .= "//***************************************************************\n";
-	$config .= "// IF YOU WANT TO LEGALY REMOVE ANY COPYRIGHT NOTICES PLAY FAIR AND CHECK: http://phpnuke.org/modules.php?name=Commercial_License\n";
+	$config .= "// IF YOU WANT TO LEGALY REMOVE ANY COPYRIGHT NOTICES PLAY FAIR AND CHECK: http://php-nuke.coders.exchange/modules.php?name=Commercial_License\n";
 	$config .= "// COPYRIGHT NOTICES ARE GPL SECTION 2(c) COMPLIANT AND CAN'T BE REMOVED WITHOUT PHP-NUKE'S AUTHOR WRITTEN AUTHORIZATION\n";
 	$config .= "// THE USE OF COMMERCIAL LICENSE MODE FOR PHP-NUKE HAS BEEN APPROVED BY THE FSF (FREE SOFTWARE FOUNDATION)\n";
 	$config .= "// YOU CAN REQUEST INFORMATION ABOUT THIS TO GNU.ORG REPRESENTATIVE. THE EMAIL THREAD REFERENCE IS #213080\n";
 	$config .= "// YOU'RE NOT AUTHORIZED TO CHANGE THE FOLLOWING VARIABLE'S VALUE UNTIL YOU ACQUIRE A COMMERCIAL LICENSE\n";
-	$config .= "// (http://phpnuke.org/modules.php?name=Commercial_License)\n";
+	$config .= "// (http://php-nuke.coders.exchange/modules.php?name=Commercial_License)\n";
 	$config .= "//***************************************************************\n";
 	$config .= "\n";
 	$config .= "\$commercial_license = 0;\n";
@@ -311,7 +311,7 @@ echo "<?xml version=\"1.0\" encoding=\"iso-8859-1\"?".">";
 						</tr>
 						<tr>
 							<td align="center">
-								<textarea rows="20" cols="60" name="configcode" onclick="javascript:this.form.configcode.focus();this.form.configcode.select();" ><?php echo htmlspecialchars( $config );?></textarea>
+								<textarea rows="20" cols="60" name="configcode" onClick="javascript:this.form.configcode.focus();this.form.configcode.select();" ><?php echo htmlspecialchars( $config );?></textarea>
 							</td>
 						</tr>
 <?php						} ?>
@@ -327,6 +327,6 @@ echo "<?xml version=\"1.0\" encoding=\"iso-8859-1\"?".">";
 </div>
 <div class="clr"></div>
 <div class="ctr">
-	<a href="http://phpnuke.org" target="_blank">PHP-Nuke</a> is Free Software released under the GNU/GPL License.
+	<a href="http://php-nuke.coders.exchange" target="_blank">PHP-Nuke</a> is Free Software released under the GNU/GPL License.
 </div>
 </html>

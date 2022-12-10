@@ -1,7 +1,7 @@
 <?php
 
 /**************************************************************************/
-/* PHP-NUKE: Advanced Content Management System                           */
+/* PHP-Nuke Titanium: An Enhanced and Advanced CMS                        */
 /* ============================================                           */
 /*                                                                        */
 /* This is the language module with all the system messages               */
@@ -69,4 +69,4 @@ define("_ALLSTORIESARCH","Все статьи");
 define("_NEXTPAGE","Следующая страница");
 define("_PREVIOUSPAGE","Предыдущая страница");
 
-?>
+?>

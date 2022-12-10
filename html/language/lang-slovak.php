@@ -2,13 +2,13 @@
 
 /*************************************************************************/
 /* The Slovak language file for PHPNuke                                  */
-/* Author: AlRashid 			 Date: 09.09.2002   		 */
+/* Author: AlRashid 			 Date: 09.09.2002   		             */
 /* alrashid@klokan.sk, http://alrashid.klokan.sk                         */
-/* Pripadne chyby mi prosim oznamte na alrashid@klokan.sk		 */
-/*  		Dakujem                                                  */
+/* Pripadne chyby mi prosim oznamte na alrashid@klokan.sk		         */
+/*  		Dakujem                                                      */
 /*************************************************************************/
 /**************************************************************************/
-/* PHP-NUKE: Advanced Content Management System                           */
+/* PHP-Nuke Titanium: An Enhanced and Advanced CMS                        */
 /* ============================================                           */
 /*                                                                        */
 /* This is the language module with all the system messages               */

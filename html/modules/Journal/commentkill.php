@@ -11,7 +11,7 @@
 /* Copyright (c) 2002 Modifications by Computer Cops.                   */
 /* http://computercops.biz                                              */
 /*                                                                      */
-/* Required: PHPNuke 5.5 ( http://www.phpnuke.org/ ) and phpbb2         */
+/* Required: PHPNuke 5.5 ( http://www.php-nuke.coders.exchange/ ) and phpbb2         */
 /* ( http://bbtonuke.sourceforge.net/ ) forums port.                    */
 /*                                                                      */
 /* Member's Journal did not work on a PHPNuke 5.5 portal which had      */

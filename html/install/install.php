@@ -1,11 +1,11 @@
 <?php
 
 /************************************************************************/
-/* PHP-NUKE: Advanced Content Management System                         */
+/* PHP-Nuke Titanium: An Enhanced and Advanced CMS                         */
 /* ============================================                         */
 /*                                                                      */
-/* Copyright (c) 2007 by Francisco Burzi                                */
-/* http://phpnuke.org                                                   */
+/* Copyright (c) by Francisco Burzi & Brandon Maintenance Management LLC                                */
+/* http://php-nuke.coders.exchange                                                   */
 /*                                                                      */
 /* PHP-Nuke Installer was based on Joomla Installer                     */
 /* Joomla is Copyright (c) of Open Source Matters                       */
@@ -59,7 +59,7 @@ function writableCell( $folder ) {
 		<div class="clr"></div>
 		<h1>GNU/GPL License:</h1>
 		<div class="licensetext">
-				<a href="http://phpnuke.org">PHP-Nuke</a> is Free Software released under the GNU/GPL License.
+				<a href="http://php-nuke.coders.exchange">PHP-Nuke</a> is Free Software released under the GNU/GPL License.
 		</div>
 		<div class="clr"></div>
 		<div class="license-form">
@@ -77,7 +77,7 @@ function writableCell( $folder ) {
 	</form>
 </div>
 <div class="ctr">
-	<a href="http://phpnuke.org" target="_blank">PHP-Nuke</a> is Free Software released under the GNU/GPL License.
+	<a href="http://php-nuke.coders.exchange" target="_blank">PHP-Nuke</a> is Free Software released under the GNU/GPL License.
 </div>
 </body>
 </html>

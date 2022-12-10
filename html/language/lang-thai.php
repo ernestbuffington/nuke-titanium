@@ -1,12 +1,12 @@
 <?php
 
 /**************************************************************************/
-/* PHP-NUKE: Advanced Content Management System                           */
+/* PHP-Nuke Titanium: An Enhanced and Advanced CMS                        */
 /* ============================================                           */
 /*                                                                        */
 /* This is the language module with all the system messages               */
 /*                                                                        */
-/* If you made a translation, please sent to me (fburzi@gmail.com)    */
+/* If you made a translation, please sent to me (fburzi@gmail.com)        */
 /* the translated file. Please keep the original text order by modules,   */
 /* and just one message per line, also double check your translation!     */
 /*                                                                        */

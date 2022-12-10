@@ -1,7 +1,7 @@
 <?php
 
 /**************************************************************************/
-/* PHP-NUKE: Advanced Content Management System                           */
+/* PHP-Nuke Titanium: An Enhanced and Advanced CMS                        */
 /* ============================================                           */
 /*                                                                        */
 /* This is the language module with all the system messages               */
@@ -204,4 +204,4 @@ define("_COMPLETEVOTE5","ќценка не выбрана - голос не засчитан");
 define("_COMPLETEVOTE6","“олько один голос с IP адреса разрешен каждый $outsidewaitdays дн€(дней).");
 define("_LINKSDATESTRING","%d/%m/%Y");
 
-?>
+?>

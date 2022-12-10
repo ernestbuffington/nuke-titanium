@@ -1,11 +1,11 @@
 <?php
 
 /************************************************************************/
-/* PHP-NUKE: Advanced Content Management System                         */
+/* PHP-Nuke Titanium: An Enhanced and Advanced CMS                         */
 /* ============================================                         */
 /*                                                                      */
-/* Copyright (c) 2007 by Francisco Burzi                                */
-/* http://phpnuke.org                                                   */
+/* Copyright (c) by Francisco Burzi & Brandon Maintenance Management LLC                                */
+/* http://php-nuke.coders.exchange                                                   */
 /*                                                                      */
 /* PHP-Nuke Installer was based on Joomla Installer                     */
 /* Joomla is Copyright (c) by Open Source Matters                       */
@@ -177,7 +177,7 @@ function check() {
 </div>
 <div class="clr"></div>
 <div class="ctr">
-	<a href="http://phpnuke.org" target="_blank">PHP-Nuke</a> is Free Software released under the GNU/GPL License.
+	<a href="http://php-nuke.coders.exchange" target="_blank">PHP-Nuke</a> is Free Software released under the GNU/GPL License.
 </div>
 </body>
 </html>

@@ -1,7 +1,7 @@
 <?php
 
 /**************************************************************************/
-/* PHP-NUKE: Advanced Content Management System                           */
+/* PHP-Nuke Titanium: An Enhanced and Advanced CMS                        */
 /* ============================================                           */
 /*                                                                        */
 /* This is the language module with all the system messages               */
@@ -60,6 +60,7 @@ define("_FINDMORE","... veel");
 define("_DIDNOTFIND","Kas sa ei leidnud mida otsisid?");
 define("_ENCYCLOPEDIA","Sõnastik");
 define("_SEARCHINSTORY","Otsi kõiki kommentaare selles jutus:");
-define("_SEARCHCHARACTERS","<center><b>Search System Error</b><br><br>Your query should be at least 3 characters long to be processed.<br>Please, fix the problem and try again...</center>");
+
+define("_SEARCHCHARACTERS","<center><b>Search System Error</b><br><br>Your query should be at least 3 characters long to be processed.<br>Please, fix the problem and try again...</center>");
 
 ?>

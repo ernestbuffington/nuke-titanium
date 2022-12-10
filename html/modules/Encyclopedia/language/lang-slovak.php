@@ -1,14 +1,14 @@
 <?php
 
-/*************************************************************************/
-/* The Slovak language file for module Encyclopedia                      */
-/* Author: AlRashid 			 Date: 09.09.2002   					 */
-/* alrashid@klokan.sk, http://alrashid.klokan.sk                         */
-/* Pripadne chyby mi prosim oznamte na alrashid@klokan.sk			     */
-/*  		Dakujem                                                      */
-/*************************************************************************/
 /**************************************************************************/
-/* PHP-NUKE: Advanced Content Management System                           */
+/* The Slovak language file for module Encyclopedia                       */
+/* Author: AlRashid 			 Date: 09.09.2002   					  */
+/* alrashid@klokan.sk, http://alrashid.klokan.sk                          */
+/* Pripadne chyby mi prosim oznamte na alrashid@klokan.sk			      */
+/*  		Dakujem                                                       */
+/**************************************************************************/
+/**************************************************************************/
+/* PHP-Nuke Titanium: An Enhanced and Advanced CMS                        */
 /* ============================================                           */
 /*                                                                        */
 /* This is the language module with all the system messages               */
@@ -22,13 +22,13 @@
 /* If you need to use double quotes (") remember to add a backslash (\),  */
 /* so your entry will look like: This is \"double quoted\" text.          */
 /* And, if you use HTML code, please double check it.                     */
-/*************************************************************************/
-/* The Slovak language file for module Encyclopedia                      */
-/* Author: AlRashid 			 Date: 09.09.2002   					 */
-/* alrashid@klokan.sk, http://alrashid.klokan.sk                         */
-/* Pripadne chyby mi prosim oznamte na alrashid@klokan.sk			     */
-/*  		Dakujem                                                      */
-/*************************************************************************/
+/**************************************************************************/
+/* The Slovak language file for module Encyclopedia                       */
+/* Author: AlRashid 			 Date: 09.09.2002   					  */
+/* alrashid@klokan.sk, http://alrashid.klokan.sk                          */
+/* Pripadne chyby mi prosim oznamte na alrashid@klokan.sk			      */
+/*  		Dakujem                                                       */
+/**************************************************************************/
 /**************************************************************************/
 
 define("_PREVIOUS","Predchádzajúca strana");

@@ -1,7 +1,7 @@
 <?php
 
 /**************************************************************************/
-/* PHP-NUKE: Advanced Content Management System                           */
+/* PHP-Nuke Titanium: An Enhanced and Advanced CMS                        */
 /* ============================================                           */
 /*                                                                        */
 /* This is the language module with all the system messages               */
@@ -103,7 +103,8 @@ define("_USERPROFILE","Perfil del Usuario");
 define("_EMAILUSER","Enviar Email");
 define("_SENDPM","Enviar Mensaje Privado");
 
-define("_PUBLISHON","Publish on");
+
+define("_PUBLISHON","Publish on");
 define("_SCHEDULENEWS","Schedule News");
 define("_PROFILE","Profile");
 define("_USERNEWS","News Sent by");

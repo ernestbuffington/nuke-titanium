@@ -4,8 +4,8 @@
 /* PHP-NUKE: Web Portal System                                          */
 /* ===========================                                          */
 /*                                                                      */
-/* Copyright (c) 2007 by Francisco Burzi                                */
-/* http://phpnuke.org                                                   */
+/* Copyright (c) by Francisco Burzi & Brandon Maintenance Management LLC                                */
+/* http://php-nuke.coders.exchange                                                   */
 /*                                                                      */
 /* Based on Databese Backup System                                      */
 /* Copyright (c) 2001 by Thomas Rudant (thomas.rudant@grunk.net)        */
@@ -212,12 +212,12 @@ if ($row['radminsuper'] == 1) {
 		{
 			$i = 0;
 			$heure_jour = date ("H:i");
-			print "# ========================================================$crlf";
+			print "# ===============================================================================$crlf";
 			print "#$crlf";
 			print "# $strName : $dbname$crlf";
 			print "# $strDone $date_jour $strat $heure_jour $strby $name !$crlf";
 			print "#$crlf";
-			print "# ========================================================$crlf";
+			print "# ===============================================================================$crlf";
 			print "$crlf";
 
 			while($i < $num_tables)

@@ -1,7 +1,7 @@
 <?php
 
 /**************************************************************************/
-/* PHP-NUKE: Advanced Content Management System                           */
+/* PHP-Nuke Titanium: An Enhanced and Advanced CMS                        */
 /* ============================================                           */
 /*                                                                        */
 /* This is the language module with all the system messages               */
@@ -71,7 +71,8 @@ define("_CLICKSMILEBUTTONS","Кликни на смајли да го вметнеш во пораката:");
 define("_CLICKCODEBUTTONS","Кликни на следниве копчиња да вметнеш BB код во пораката:");
 define("_PRIVMSGERROR","Грешка!");
 define("_USERDOESNTEXIST","Жалиме, избраниот корисник не постои во нашата база");
-define("_DELETESELECTED","Delete Selected");
+
+define("_DELETESELECTED","Delete Selected");
 define("_SENDNEWMSG","Send New Message");
 define("_REPLY","Reply");
 define("_NOSUBJECT","There is not a Subject for your Message.");

@@ -1,7 +1,7 @@
 <?php
 
 /**************************************************************************/
-/* PHP-NUKE: Advanced Content Management System                           */
+/* PHP-Nuke Titanium: An Enhanced and Advanced CMS                        */
 /* ============================================                           */
 /*                                                                        */
 /* This is the language module with all the system messages               */
@@ -108,6 +108,7 @@ define("_EZATTACHEDTOCAT","selle kategooria alla");
 define("_EZBROKENLINKS","Vigased lingid");
 define("_LINKAPPROVEDMSG", "Sinu saadetud veebileht, meie linkide andmebaasis, on nüüd heaks kiidetud.");
 
-define("_OWNERISADMIN","Administration");
+
+define("_OWNERISADMIN","Administration");
 
 ?>

@@ -1,19 +1,19 @@
 <?php
 
-/************************************************************************/
-/* PHP-NUKE: Web Portal System                                          */
-/* ===========================                                          */
-/*                                                                      */
-/* Copyright (c) 2007 by Francisco Burzi                                */
-/* http://phpnuke.org                                                   */
-/*                                                                      */
-/* Google Page Rank Calculation                                         */
-/* Copyright 2004 by GoogleCommunity.com                                */
-/*                                                                      */
-/* This program is free software. You can redistribute it and/or modify */
-/* it under the terms of the GNU General Public License as published by */
-/* the Free Software Foundation; either version 2 of the License.       */
-/************************************************************************/
+/*************************************************************************/
+/* PHP-NUKE: Web Portal System                                           */
+/* ===========================                                           */
+/*                                                                       */
+/* Copyright (c) by Francisco Burzi & Brandon Maintenance Management LLC */
+/* http://php-nuke.coders.exchange                                       */
+/*                                                                       */
+/* Google Page Rank Calculation                                          */
+/* Copyright 2004 by GoogleCommunity.com                                 */
+/*                                                                       */
+/* This program is free software. You can redistribute it and/or modify  */
+/* it under the terms of the GNU General Public License as published by  */
+/* the Free Software Foundation; either version 2 of the License.        */
+/*************************************************************************/
 
 // This system includes Google Page Rank Calculation made by GoogleCommunity.com
 // Don't abuse this script. It's here for your use, to give accurate information

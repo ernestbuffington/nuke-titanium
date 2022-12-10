@@ -1,7 +1,7 @@
 <?php
 
 /**************************************************************************/
-/* PHP-NUKE: Advanced Content Management System                           */
+/* PHP-Nuke Titanium: An Enhanced and Advanced CMS                        */
 /* ============================================                           */
 /*                                                                        */
 /* This is the language module with all the system messages               */
@@ -129,7 +129,8 @@ define("_YOURATEDARTICLE","Your vote was");
 define("_COMMENTSMODERATION","Comments Moderation System");
 define("_MODERATE","Moderate");
 define("_CLICKTOMODERATE","Please select your moderation values for each comment on this article, then click on <i>Moderate</i> button bellow to save your comments moderation preferences. Be fair on each value, this will contribute and benefict all users/readers. Thank you.");
-define("_COMMENTSSYSTEM","Comments System");
+
+define("_COMMENTSSYSTEM","Comments System");
 define("_COMMENTPOSTERROR","<b>Error saving your comment...</b><br><br><b>ERROR:</b> The title or the main text of your comment are empty.<br>Please go back and correct the problem, then try again.");
 
 ?>
